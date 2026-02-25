@@ -1,0 +1,27 @@
+{
+  "name": "unsupported-metric-multi-turn",
+  "datasetRows": [
+    {
+      "user_input": [
+        { "type": "human", "content": "What is X" }
+      ]
+    },
+    {
+      "user_input": [
+        { "type": "human", "content": "What is Y" }
+      ]
+    }
+  ],
+  "metric": {
+    "name": "mock_metric",
+    "kind": "single_turn",
+    "requiredColumns": {
+      "SINGLE_TURN": ["user_input"]
+    }
+  },
+  "expected": {
+    "exceptionContains": [
+      "does not support the sample type"
+    ]
+  }
+}

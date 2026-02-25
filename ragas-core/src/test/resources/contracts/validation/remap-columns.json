@@ -1,0 +1,21 @@
+{
+  "name": "remap-columns",
+  "rows": [
+    {
+      "query": "",
+      "rag_answer": "",
+      "rag_contexts": [""],
+      "another_column": ""
+    }
+  ],
+  "columnMap": {
+    "question": "query",
+    "answer": "rag_answer"
+  },
+  "expectedColumns": [
+    "question",
+    "answer",
+    "rag_contexts",
+    "another_column"
+  ]
+}

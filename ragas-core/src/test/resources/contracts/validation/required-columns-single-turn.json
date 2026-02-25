@@ -1,0 +1,24 @@
+{
+  "name": "required-columns-single-turn",
+  "datasetRows": [
+    {
+      "user_input": "What is X"
+    },
+    {
+      "user_input": "What is Y"
+    }
+  ],
+  "metric": {
+    "name": "mock_metric",
+    "kind": "single_turn",
+    "requiredColumns": {
+      "SINGLE_TURN": ["user_input", "response"]
+    }
+  },
+  "expected": {
+    "exceptionContains": [
+      "requires the following additional columns",
+      "response"
+    ]
+  }
+}
