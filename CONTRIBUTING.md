@@ -59,4 +59,4 @@ If you change APIs, metrics, or schema, update the relevant docs under `docs/`:
 
 ## Support
 
-Questions and coordination happen in Discord: https://discord.gg/5djav8GGNZ
+Questions and coordination happen in Discord: **TBD**
