@@ -4,7 +4,7 @@
 
 We are committed to providing a welcoming and inclusive environment for all people, regardless of age, body size, caste, disability, ethnicity, gender identity and expression, level of experience, family status, gender, immigration status, level of expertise, national origin, personal appearance, political belief, race, religion, sexual identity and orientation, socioeconomic status, tribe, and veteran status.
 
-We expect all participants in the Ragas community—whether contributing code, providing feedback, reporting issues, participating in discussions, attending events, or engaging in any other capacity—to embody the values of respect, inclusion, and professionalism.
+We expect all participants in the JRagas community—whether contributing code, providing feedback, reporting issues, participating in discussions, attending events, or engaging in any other capacity—to embody the values of respect, inclusion, and professionalism.
 
 ## Our Standards
 
@@ -37,12 +37,12 @@ Examples of unacceptable behaviour include:
 
 ## Scope
 
-This Code of Conduct applies to all spaces managed by the Ragas project, including:
+This Code of Conduct applies to all spaces managed by the JRagas project, including:
 
 - GitHub repositories (issues, pull requests, discussions, and code reviews)
 - Official communication channels (Discord, Slack, mailing lists, forums)
-- Official events and conferences organised by Ragas maintainers
-- Any official online or offline event, conference, or gathering representing Ragas
+- Official events and conferences organised by JRagas maintainers
+- Any official online or offline event, conference, or gathering representing JRagas
 
 This Code of Conduct also applies to conduct outside of these spaces if it demonstrates a pattern of harassment or is reasonably perceived as affecting the safety or well-being of community members.
 
@@ -88,16 +88,16 @@ The maintainers may also take action to address behaviour even if no formal comp
 
 ## Consequences for Violations
 
-Anyone who violates this Code of Conduct may face consequences determined by the Ragas maintainers, including:
+Anyone who violates this Code of Conduct may face consequences determined by the JRagas maintainers, including:
 
 - Editing or deletion of comments or contributions
 - Removal from the project repository or community spaces
-- Temporary or permanent ban from participating in Ragas spaces
+- Temporary or permanent ban from participating in JRagas spaces
 - Public acknowledgment of the violation (at the discretion of the reporter and maintainers)
 
 ## Appeal Process
 
-If you believe you have been unfairly sanctioned under this Code of Conduct, you may appeal by sending a detailed explanation to **support@ragas.io**. The appeal will be reviewed by a different set of maintainers when possible, and a decision will be communicated to you within a reasonable timeframe.
+If you believe you have been unfairly sanctioned under this Code of Conduct, you may appeal by sending a detailed explanation to **TBD**. The appeal will be reviewed by a different set of maintainers when possible, and a decision will be communicated to you within a reasonable timeframe.
 
 ## Attribution
 
@@ -105,10 +105,10 @@ This Code of Conduct is adapted from the Contributor Covenant (https://www.contr
 
 ## Questions?
 
-If you have questions about this Code of Conduct or how it applies to a specific situation, please reach out to the maintainers at **support@ragas.io** or through a project maintainer you trust.
+If you have questions about this Code of Conduct or how it applies to a specific situation, please reach out to the maintainers at **TBD** or through a project maintainer you trust.
 
 ---
 
-Last Updated: November 2024
+Last Updated: May 2026
 
-We appreciate your participation in making Ragas a welcoming and inclusive community for everyone.
+We appreciate your participation in making JRagas a welcoming and inclusive community for everyone.
